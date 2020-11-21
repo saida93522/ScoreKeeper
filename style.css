@@ -1,0 +1,45 @@
+/* *{
+    margin: 0;
+    padding:0;
+} */
+html{
+    background-color: beige;
+}
+h1,
+h5,
+h3{
+    font-size: 5px;
+    font-weight: bold;
+}
+
+.winner {
+    color: #2ecc71;
+}
+
+.loser{
+    color: #e74c3c;
+}
+
+.card-content{
+    background-color:#f1f2f6;
+}
+.card-header-title{
+    background-color:#218c74;
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 5px red;
+
+
+    
+}
+.card-footer{
+    background-color:#f1f2f6;
+}
+.has-text-success{
+
+}	
+
+.has-text-danger-dark{
+
+}	
